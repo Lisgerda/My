@@ -76,5 +76,5 @@ https://lizabet.atlassian.net/l/cp/m7C62frS
 
 
 ## Контактная информация
-email: liza.dulesova@mail.ru
+email: liza.dulesova@mail.ru  
        lizabeth.step@gmail.com
