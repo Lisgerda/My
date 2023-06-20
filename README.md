@@ -14,6 +14,7 @@
 * Trello
 * Git
 * Chrome DevTools
+* Sitechko
 
 ## Проекты
 
